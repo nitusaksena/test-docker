@@ -1,0 +1,14 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A SOAP service providing weather information",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tony Trinh totrinh@deloitte.com.au",
+  "dependencies": {
+    "express": "^4.15.2",
+    "soap":"^0.19.0"
+  }
+}
